@@ -1,6 +1,6 @@
 # Research Note #1
 
-## Question: How does a C while-loop translate into x86 assembly?
+## Question: How does a C for-loop translate into x86 assembly?
 
 **Background:** Minimal understanding of compiler output.
 
